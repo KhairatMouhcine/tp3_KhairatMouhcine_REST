@@ -1,4 +1,4 @@
-package ma.emsi.khairat.tp2_khairatmouhcine_webapp.llm;
+package ma.emsi.khairat.tp3_khairatmouhcine_RESTAPP.llm;
 
 import dev.langchain4j.service.SystemMessage;
 import dev.langchain4j.service.UserMessage;

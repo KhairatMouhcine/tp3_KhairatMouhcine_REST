@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ma.emsi.khairat</groupId>
-    <artifactId>tp2_khairatMouhcine_webAPP</artifactId>
+    <artifactId>tp3_khairatMouhcine_restapp</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>tp2_khairatMouhcine_webAPP</name>
+    <name>tp3_khairatMouhcine_restapp</name>
     <packaging>war</packaging>
 
     <properties>
@@ -35,11 +35,6 @@
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-google-ai-gemini</artifactId>
             <version>1.7.1</version>
-        </dependency>
-        <dependency>
-            <groupId>dev.langchain4j</groupId>
-            <artifactId>langchain4j-easy-rag</artifactId>
-            <version>1.7.1-beta14</version>
         </dependency>
         <!-- Pour activer le logging SLF4J -->
         <dependency>

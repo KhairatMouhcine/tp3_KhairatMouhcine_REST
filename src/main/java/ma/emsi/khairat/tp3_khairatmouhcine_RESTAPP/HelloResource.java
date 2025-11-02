@@ -1,4 +1,4 @@
-package ma.emsi.khairat.tp2_khairatmouhcine_webapp;
+package ma.emsi.khairat.tp3_khairatmouhcine_RESTAPP;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

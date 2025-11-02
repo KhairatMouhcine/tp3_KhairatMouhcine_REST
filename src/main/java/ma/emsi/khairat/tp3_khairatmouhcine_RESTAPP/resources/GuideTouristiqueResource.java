@@ -1,9 +1,8 @@
-package ma.emsi.khairat.tp2_khairatmouhcine_webapp.resources;
+package ma.emsi.khairat.tp3_khairatmouhcine_RESTAPP.resources;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
-import jakarta.ws.rs.core.MediaType;
-import ma.emsi.khairat.tp2_khairatmouhcine_webapp.llm.LlmClientForGuide;
+import ma.emsi.khairat.tp3_khairatmouhcine_RESTAPP.llm.LlmClientForGuide;
 
 @Path("/guide")
 public class GuideTouristiqueResource {

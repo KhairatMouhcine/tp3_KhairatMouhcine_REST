@@ -17,6 +17,7 @@ public interface GuideTouristique {
           "endroits_a_visiter": ["endroit1", "endroit2"],
           "prix_moyen_repas": "<prix> <devise>"
         }
+        N'utilisez pas Markdown.
     """)
     String getInfos(@UserMessage String lieu);
 }

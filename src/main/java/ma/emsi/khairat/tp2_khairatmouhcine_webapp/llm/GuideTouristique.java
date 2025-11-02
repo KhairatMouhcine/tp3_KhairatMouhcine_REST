@@ -9,7 +9,7 @@ public interface GuideTouristique {
     @SystemMessage("""
         Vous êtes un guide touristique.
         Lorsqu'on vous donne un nom de pays ou de ville, 
-        vous indiquez les 2 principaux endroits à visiter 
+        vous indiquez les  nombre d'endroits donner à visiter 
         et le prix moyen d’un repas dans la devise locale.
         Répondez au format JSON suivant :
         {
